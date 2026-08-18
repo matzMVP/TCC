@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appMapa_FILE D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/appMapa.exe)
+set(__QT_DEPLOY_TARGET_appMapa_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appMapa_RUNTIME_DLLS D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6Quick.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6OpenGL.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6Gui.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6QmlMeta.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6QmlModels.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6QmlWorkerScript.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6Qml.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6Network.dll;D:/programacao/QTT/6.11.1/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,14 @@
+--bare
+-I
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-I
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/Mapa
+-I
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-I
+D:/programacao/QTT/6.11.1/mingw_64/qml
+--resource
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_Mapa.qrc
+--resource
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appMapa_raw_qml_0.qrc
+D:/Dev/Qt/Mapa/Main.qml

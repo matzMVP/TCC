@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appMapa_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Mapa.cpp"
+  ".rcc/qmlcache/appMapa_Main_qml.cpp"
+  ".rcc/qmlcache/appMapa_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appMapa_qmlcache_loader.cpp"
+  "CMakeFiles/appMapa.dir/appMapa_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appMapa.dir/appMapa_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/appmapa_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appMapa.dir/appmapa_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appMapa_raw_qml_0.cpp.obj"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_appMapa_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Mapa.cpp.obj"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_Mapa.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appMapa_Main_qml.cpp.obj"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appMapa_Main_qml.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appMapa_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appMapa.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/appMapa_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appMapa.dir/main.cpp.obj"
+  "CMakeFiles/appMapa.dir/main.cpp.obj.d"
+  "CMakeFiles/appMapa_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appMapa_autogen.dir/ParseCache.txt"
+  "appMapa_autogen"
+  "Mapa/appMapa.qmltypes"
+  "appMapa.exe"
+  "appMapa.exe.manifest"
+  "appMapa.pdb"
+  "appMapa_autogen/mocs_compilation.cpp"
+  "appMapa_autogen/timestamp"
+  "appmapa_qmltyperegistrations.cpp"
+  "libappMapa.dll.a"
+  "meta_types/appMapa_json_file_list.txt"
+  "meta_types/appMapa_json_file_list.txt.timestamp"
+  "meta_types/qt6appmapa_metatypes.json"
+  "meta_types/qt6appmapa_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appMapa.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

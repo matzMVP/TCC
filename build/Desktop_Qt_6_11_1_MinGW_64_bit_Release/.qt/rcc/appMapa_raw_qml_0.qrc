@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Mapa/">
+    <file alias="Main.qml">D:/Dev/Qt/Mapa/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+D:/Dev/Qt/Mapa
+-cmake-output
+-output-file
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/qml_imports/appMapa_conf.cmake
+-importPath
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-importPath
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/Mapa
+-importPath
+D:/programacao/QTT/6.11.1/mingw_64/qml
+-qrcFiles
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_Mapa.qrc
+D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/appMapa_raw_qml_0.qrc

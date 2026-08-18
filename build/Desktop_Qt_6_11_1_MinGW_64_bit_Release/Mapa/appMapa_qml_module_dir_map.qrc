@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Mapa">D:/Dev/Qt/Mapa/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/Mapa</file>
+
+  </qresource>
+</RCC>
