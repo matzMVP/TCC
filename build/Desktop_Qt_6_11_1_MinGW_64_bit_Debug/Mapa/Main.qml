@@ -15,23 +15,58 @@ Window {
         anchors.fill: parent //Ocupar toda a area da window
 
         Map{
-            anchors.fill: parent //Ocupar a area do objeto herdado
+            anchors.fill: parent
             id: map
-            plugin: mapPlugin //qual plugin ta usando, no caso, usa o plugin do objeto mapPlugin que é o osm
+            plugin: mapPlugin
             zoomLevel: 14
             center: QtPositioning.coordinate(-22.7253, -47.6492)
 
             MapQuickItem {
                 id: markPin
-                coordinate: QtPositioning.coordinate(-22.7253, -47.6492)
-                sourceItem: Column {
-                    Image {
-                        source: "file:///C:/Users/mathe/Downloads/Pin.png"
-                        width: 40
-                        height: 40
-                    }
-                    Text {
-                        text: "PERIGO"
+            coordinate: QtPositioning.coordinate(-22.7253, -47.6492)
+
+            sourceItem: Column {
+                spacing: 2
+
+                Item {
+                width: 40
+                height: 40
+
+                // Círculo do pin
+                Rectangle {
+                width: 28
+                height: 28
+                radius: 14
+                color: "#e53935"
+                anchors.horizontalCenter: parent.horizontalCenter
+                anchors.top: parent.top
+
+                Text {
+                    anchors.centerIn: parent
+                    text: "!"
+                    color: "white"
+                    font.bold: true
+                    font.pixelSize: 18
+                }
+            }
+
+            // Pontinha do pin
+                Rectangle {
+                    width: 12
+                    height: 12
+                    color: "#e53935"
+                    rotation: 45
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    anchors.top: parent.top
+                    anchors.topMargin: 22
+            }
+        }
+
+                Text {
+                    text: "PERIGO"
+                    color: "red"
+                    font.bold: true
+                    anchors.horizontalCenter: parent.horizontalCenter
                     }
                 }
             }
